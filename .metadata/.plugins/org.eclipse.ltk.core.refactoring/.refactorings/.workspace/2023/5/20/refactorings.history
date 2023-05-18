@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CA&apos; to &apos;accurate-web&apos;" description="Rename resource &apos;CA&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CA" name="accurate-web" stamp="1684350674784" updateReferences="true"/>
+</session>
