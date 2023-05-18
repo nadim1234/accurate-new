@@ -1,3 +1,5 @@
 [main] DEBUG com.accurate.Test  - Hello this is a debug message
   [main] INFO  com.accurate.Test  - Hello this is an info message
+  [main] DEBUG com.accurate.Test  - Hello this is a debug message
+  [main] INFO  com.accurate.Test  - Hello this is an info message
   

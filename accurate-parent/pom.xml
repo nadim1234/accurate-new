@@ -7,12 +7,9 @@
   <name>parent</name>
   <description>parent project</description>
   
- <profiles>
- <profile>
   <modules>
   <module>../accurate-domain</module>
   <module>../accurate-web</module>
   </modules>
-  </profile>
-  </profiles>
+  
 </project>
